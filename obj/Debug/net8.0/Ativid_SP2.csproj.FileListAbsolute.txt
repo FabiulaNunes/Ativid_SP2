@@ -1,0 +1,14 @@
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\bin\Debug\net8.0\Ativid_SP2.exe
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\bin\Debug\net8.0\Ativid_SP2.deps.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\bin\Debug\net8.0\Ativid_SP2.runtimeconfig.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\bin\Debug\net8.0\Ativid_SP2.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\bin\Debug\net8.0\Ativid_SP2.pdb
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.AssemblyInfoInputs.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.AssemblyInfo.cs
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.csproj.CoreCompileInputs.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\refint\Ativid_SP2.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.pdb
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\Ativid_SP2.genruntimeconfig.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\Ativid_SP2\obj\Debug\net8.0\ref\Ativid_SP2.dll
